@@ -16,16 +16,22 @@
 </head>
 <body>
 
-    <div class="topnav sticky">
+    <div class="topnav sticky" id="topNavToggle" style="z-index:1000;">
         <!-- Set class="active" on your page -->
         <a href="./index.html">Home</a>
         <!-- sarah -->
-        <a href="./favorite.html">My Favorite App</a>
+        <a href="./favorite.html" class="active">My Favorite App</a>
         <!-- deb -->
-        <a href="./blog.html" class="active">Blog</a>
+        <a href="./blog.html">Blog</a>
         <!-- neeraj -->
         <a href="./dashboard.html">Most Popular Apps</a>
-        <div class="icon">
+        <a href="./about.html">About Us</a>
+
+        <a href="javascript:void(0);" class="icon" onclick="toggleNav()">
+            <i class="fa fa-bars"></i>
+        </a>
+
+        <div class="logo">
             <img src="./img/usf-logo-png-2.png" height="30px" />
         </div>
     </div>
@@ -276,9 +282,19 @@
     <footer class="col-12 text-center">
         <div>
             <h2>Group 2 - App Tool</h2>
-            <span class="copyright">&#169; 2019 - Deborah Gause, Neeraj Kumar, Sarah Wasselle, and Alexander Seufert</span>
+            <span class="copyright">&#169; 2020 - Deborah Gause, Neeraj Kumar, Sarah Wasselle, and Alexander Seufert</span>
         </div>
     </footer>
+    <script>
+    function toggleNav() {
+    var x = document.getElementById("topNavToggle");
+            if (x.className === "topnav") {
+                x.className += " responsive";
+            } else {
+                x.className = "topnav";
+            }
+        }
+    </script>
 </body>
 </html>
 

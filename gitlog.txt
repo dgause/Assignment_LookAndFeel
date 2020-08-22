@@ -1,0 +1,74 @@
+commit 4d58011daff4bb213d87cbbe0b8a638ab2b55813
+Merge: 0a0dbed 01090b4
+Author: aseufert <amseufert@gmail.com>
+Date:   Thu Jul 16 19:07:46 2020 -0400
+
+    Merge pull request #3 from kn72815/patch-1
+    
+    Create dashboard
+
+commit 01090b4bcbcd0aabef6914e95515d706e42d1de6
+Author: Neeraj Kumar <67205161+kn72815@users.noreply.github.com>
+Date:   Wed Jul 15 21:49:50 2020 -0400
+
+    Create dashboard
+
+commit 0a0dbeda5aa19615e75988f2c9d4f5b7d01b9f0e
+Author: Sarah Dibble <sarahdibble@SarahsAir.local>
+Date:   Wed Jul 15 18:49:10 2020 -0400
+
+    Sarah update
+
+commit eb7c0ad8ff5cdd69c1af90891413da3cfbcaa95a
+Author: Sarah Dibble <sarahdibble@SarahsAir.local>
+Date:   Tue Jul 14 19:52:04 2020 -0400
+
+    sarah's commit
+
+commit d0aa56f6ece6aa8cdabe2fddacc370e8ec00dda8
+Merge: 1ba36ef 8171d5b
+Author: dgause <63264186+dgause@users.noreply.github.com>
+Date:   Sat Jul 11 15:57:36 2020 -0400
+
+    Merge pull request #2 from dgause/Deb
+    
+    Added blog page
+
+commit 8171d5be2acac620a5a2059d6238f643a44a9fe6
+Author: Deborah Gause <dgause@usf.edu>
+Date:   Sat Jul 11 15:03:54 2020 -0400
+
+    Added blog page
+
+commit 1ba36ef884f7a246543e3b99357d3927d5daa3b6
+Merge: 576c04a 5ce786d
+Author: aseufert <amseufert@gmail.com>
+Date:   Thu Jul 9 21:03:29 2020 -0400
+
+    Merge pull request #1 from dgause/responsive-framework
+    
+    Responsive framework
+
+commit 5ce786d9f02c3f2d7d9468d2b830ad38df668173
+Author: Alex Seufert <amseufert@gmail.com>
+Date:   Thu Jul 9 21:02:14 2020 -0400
+
+    added some html comments
+
+commit fbfadbd4c4ef02d0a416268c94ba838e4275a65d
+Author: Alex Seufert <amseufert@gmail.com>
+Date:   Wed Jul 8 21:28:42 2020 -0400
+
+    initial responsive commit
+
+commit 576c04ae82ec1adecb0876087ee1631af03786f7
+Author: DhruvDhiman <dhimandhruv92@gmail.com>
+Date:   Thu Sep 27 11:45:50 2018 -0400
+
+    Initial Commit
+    
+    1. Added sample main.css file
+    2. Added sample main.js file
+    3. Added img folder
+    4. Added sample.html
+    5. Added index.html
